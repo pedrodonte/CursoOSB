@@ -1,0 +1,4 @@
+<saludarResponse xmlns="http://www.example.com/cursoOSB/mensajes">
+  <codigoRespuesta>codigoRespuesta</codigoRespuesta>
+  <mensajeRespuesta>mensajeRespuesta</mensajeRespuesta>
+</saludarResponse>
