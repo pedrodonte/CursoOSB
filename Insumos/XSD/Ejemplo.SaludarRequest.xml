@@ -1,4 +1,4 @@
-<saludarRequest>
-  <parametro1>str1234</parametro1>
-  <parametro2>123</parametro2>
-</saludarRequest>
+<men:saludarRequest xmlns:men="http://www.example.com/cursoOSB/mensajes">
+  <men:parametro1>parametro1</men:parametro1>
+  <men:parametro2>parametro2</men:parametro2>
+</men:saludarRequest>
